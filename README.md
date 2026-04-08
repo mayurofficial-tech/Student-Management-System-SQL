@@ -36,6 +36,7 @@ Each table is connected through foreign key relationships to maintain data integ
 
 ## 📂 Project Structure
 student_management_system-SQL/
+
 │
 ├── student_management_system.sql
 └── README.md
