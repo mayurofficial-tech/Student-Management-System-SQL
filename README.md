@@ -35,8 +35,7 @@ Each table is connected through foreign key relationships to maintain data integ
 - Relational Database Design
 
 ## 📂 Project Structure
-student_management_system-SQL/
-
+Student-Management-System-SQL/
 │
 ├── student_management_system.sql
 └── README.md
