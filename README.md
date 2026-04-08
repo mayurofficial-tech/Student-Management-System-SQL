@@ -35,10 +35,11 @@ Each table is connected through foreign key relationships to maintain data integ
 - Relational Database Design
 
 ## 📂 Project Structure
+
 Student-Management-System-SQL/
-│
+"""│
 ├── student_management_system.sql
-└── README.md
+└── README.md"""
 
 ## ▶️ How to Run
 1. Open MySQL Workbench or any SQL tool  
